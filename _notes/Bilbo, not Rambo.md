@@ -39,4 +39,4 @@ To be fair to them, 5e _does_ lend itself much more heavily to the latter, being
 
 This has lead me to rethink the games I am running now, and think about what kind of stories I want to tell. In the stories of my childhood the heroes did wave around swords occasionally, yes, but most of the time that was the last resort. Most of the story would be about the journey, the people, and maybe only have a battle at the climax. In Bilbo's case, he wasn't even present at the final battle against Smaug!
 
-I think that maybe it might be helpful (and even fun!) to try to find a way to have a "Hobbit" type of game, rather than a "Lord of the Rings" Aragorn and co., battle-hardened adventure. Can I make a game where combat just isn't present, while still keeping it feeling "fantasy"?
+I think that maybe it might be helpful (and even fun!) to try to find a way to have a "Hobbit" type of game, rather than a "Lord of the Rings" Aragorn and co., battle-hardened adventure. [[Child's Play|Can I make a game where combat just isn't present, while still keeping it feeling "fantasy"?]]
