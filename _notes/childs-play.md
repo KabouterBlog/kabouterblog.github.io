@@ -20,7 +20,7 @@ Maybe all this talk of dice is a bit premature. I don't even know what the chara
 
 ## Inspiration
 
-My first instinct is to turn to other forms of media that I want to get the "feel" of in this new project and analyze them for similarities and tropes. To this extent, I have been developing an [[Appendix N]] to be a source of inspiration. A very common theme in almost all of these works is "little person on big adventure". While not all of the protagonists are literal children, a lot of them are, and even when they are not the power dynamics at play put them at a large disadvantage: brute force is not an option for them.
+My first instinct is to turn to other forms of media that I want to get the "feel" of in this new project and analyze them for similarities and tropes. To this extent, I have been developing an [[appendix-n|Appendix N]] to be a source of inspiration. A very common theme in almost all of these works is "little person on big adventure". While not all of the protagonists are literal children, a lot of them are, and even when they are not the power dynamics at play put them at a large disadvantage: brute force is not an option for them.
 I have compiled a short list of "verbs" off of the top of my head from what I remember from these works:
 
 - Hide

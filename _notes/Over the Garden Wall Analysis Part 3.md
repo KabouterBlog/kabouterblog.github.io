@@ -108,4 +108,4 @@ REWARDS: DISTRACT, ESCAPE, LEARN, CATCH/TRAP
 
 ## What's next?
 
-This all needs to stew a bit longer, let the flavors mingle. I think before I take a shot and dice, I might procrastinate a bit longer and try this exercise with another entry on the [[Appendix N|Appendix]]. I am leaning towards Coraline, but then I would need to choose between the book and the movie... Who knows? Only future me.
+This all needs to stew a bit longer, let the flavors mingle. I think before I take a shot and dice, I might procrastinate a bit longer and try this exercise with another entry on the [[appendix-n|Appendix]]. I am leaning towards Coraline, but then I would need to choose between the book and the movie... Who knows? Only future me.

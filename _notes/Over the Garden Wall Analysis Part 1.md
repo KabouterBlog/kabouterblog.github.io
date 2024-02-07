@@ -3,7 +3,7 @@ title: Over the Garden Wall Analysis Part 1
 feed: show
 date: 2024-02-03
 ---
-As mentioned in my previous post ([[Child's Play]]), I plan on re-watching/reading/playing some of the entries in my [[Appendix N]] and analyzing the "verbs" the protagonists take and see if they can be transformed into TTRPG mechanics. First up is the amazing "Over the Garden Wall". It is a nice, compact 10 episodes of 10 minutes each, so I am hoping that it will be easy-ish to break down episode by episode, even minute by minute.
+As mentioned in my previous post ([[childs-play]]), I plan on re-watching/reading/playing some of the entries in my [[appendix-n]] and analyzing the "verbs" the protagonists take and see if they can be transformed into TTRPG mechanics. First up is the amazing "Over the Garden Wall". It is a nice, compact 10 episodes of 10 minutes each, so I am hoping that it will be easy-ish to break down episode by episode, even minute by minute.
 
 I am going to try to note the major actions for each minute of each episode, noting the major VERBS of that minute. This may be overkill, we shall see after a few episodes if I will continue to be this detailed.
 
