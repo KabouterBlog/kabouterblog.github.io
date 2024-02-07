@@ -1,6 +1,6 @@
 ---
 title: Appendix N
-aliases: []
+date: 2024-02-02
 ---
 _Items in italics are ones I want to explore, but have not for one reason or another_
 ### Books

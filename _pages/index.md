@@ -15,6 +15,17 @@ This digital garden template is free, open-source, and [available on GitHub here
 
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
+<strong>All notes by date</strong>
+
+<ul>
+  {% assign all_notes = site.notes | sort: "date" | reverse %}
+  {% for note in all_notes limit: 10 %}
+    <li>
+      {{ note.date | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <strong>Recently updated notes</strong>
 
 <ul>
