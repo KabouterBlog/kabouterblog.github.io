@@ -2,7 +2,6 @@
 title: Bilbo, not Rambo
 feed: show
 date: 2024-02-01
-permalink: 2024/02/bilbo-not-rambo
 ---
 The party was tasked with infiltrating the sprawling mansion of an eccentric recluse and stealing the family snake of a local noble-woman. We were playing a roguish city campaign (5e game, homebrew setting), where the PCs were all on the _other_ side of the law, so maybe I should not have been surprised with how things went, but I was.
 
