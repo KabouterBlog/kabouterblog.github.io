@@ -17,11 +17,14 @@ The second encounter of the evening (OSR home-brewed run through Curse of Strahd
 
 It was only then that I realized what had been bothering me about the previous game so much. There was perhaps only one roll that did not go the way the players were expecting.
 
-Back then, during one of the combats it was the rogue's turn.
-Player: "I charge towards the demon and attack with my daggers." Rolls to hit. "$#&% I rolled a 2."
-Me: "That is a miss, the demon ducks out from under you, your swing going wide over its head. It turns to you and snarls, baring its large, dripping fangs at at you. Do you have any bonus actions?"
-Player: "Nope, and I used all my movement to get there, so I guess I am done"
-Me: "Okay, the demon is next up..."
+Back then, during one of the combats it was the rogue's turn:
+> Player: "I charge towards the demon and attack with my daggers." Rolls to hit. "$#&% I rolled a 2."
+> 
+> Me: "That is a miss, the demon ducks out from under you, your swing going wide over its head. It turns to you and snarls, baring its large, dripping fangs at at you. Do you have any bonus actions?"
+> 
+> Player: "Nope, and I used all my movement to get there, so I guess I am done"
+> 
+> Me: "Okay, the demon is next up..."
 
 It is so small, and it happens all the time! They missed one attack, so what? The problem wasn't the miss, necessarily, but the mood shift it caused. The player in question was a great strategist, loved to plan and ask a thousand questions, treating every flowery description as a well of clues to be scrutinized. Up to this point in the session they were the star of the show, but after that one miss they suddenly withdrew. For the next few encounters they played it safe, slow, and did not engage much at all. Of course they recovered and continued as normal, but that brief, 30 minute dead air bothered me in a way I did not fully process. Why was this such a problem for them? What happened?
 
