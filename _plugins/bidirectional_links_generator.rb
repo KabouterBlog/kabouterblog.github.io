@@ -4,8 +4,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     graph_nodes = []
     graph_edges = []
 
-    # Only pull notes that are not hidden
-    all_notes = site.collections['notes'].docs.select{|note| note.data['graph'] != 'hide'}
+    all_notes = site.collections['notes'].docs
     all_pages = site.pages
 
     all_docs = all_notes + all_pages
