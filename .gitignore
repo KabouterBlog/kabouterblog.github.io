@@ -15,5 +15,6 @@ _includes/notes_graph.json
 .obsidian/
 _notes/.obsidian/
 
-# Obsidian templates
+# Obsidian templates and pages
 _notes/templates/*
+_notes/_pages/*
