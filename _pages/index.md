@@ -17,6 +17,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 
 <strong>All notes by date</strong>
 
+### All notes by date
+
 <ul>
   {% assign all_notes = site.notes | sort: "date" | reverse %}
   {% for note in all_notes limit: 10 %}
