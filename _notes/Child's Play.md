@@ -1,6 +1,5 @@
 ---
 title: Child's Play
-feed: show
 date: 2024-02-02
 ---
 After I got stuck on my issues with TTRPG combat, I found [this](https://goblinpunch.blogspot.com/2020/11/the-inn-between.html) blog post by Goblin Punch that really got me going. It sent me down the rabbit hole of "romantic" games (not lovey-dovey romance, but [romantic in the artistic sense](https://en.wikipedia.org/wiki/Romanticism)). I really liked the approach taken with the [Goose-Gold & Goblins](http://falsemachine.blogspot.com/2020/05/soft-ass-d.html) posts, but I wanted to try my own hand at the mechanics. If we are going to take direct, physical combat out of an RPG, a large chunk of the mechanics and game-play loops are now gone. Weapons and armor, a lot of spells (maybe not so much the OSR style ones), maybe even HP now have lost their purpose, so it would be nice to replace them.

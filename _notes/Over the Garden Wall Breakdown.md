@@ -1,6 +1,5 @@
 ---
 title: Over the Garden Wall Breakdown
-feed: show
 date: 2024-02-03
 ---
 As mentioned in my [[Child's Play|previous post]], I plan on re-watching/reading/playing some of the entries in my [[Appendix N|Appendix N]] and analyzing the "verbs" the protagonists take and see if they can be transformed into TTRPG mechanics. First up is the amazing "Over the Garden Wall". It is a nice, compact 10 episodes of 10 minutes each, so I am hoping that it will be easy-ish to break down episode by episode, even minute by minute.

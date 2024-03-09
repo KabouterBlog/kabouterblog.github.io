@@ -14,9 +14,15 @@ _Items in italics are ones I want to explore, but have not for one reason or ano
 	- [The Secret of Kells](https://www.imdb.com/title/tt0485601)
 	- [Song of the Sea](https://www.imdb.com/title/tt1865505)
 	- [Wolfwalkers](https://www.imdb.com/title/tt5198068)
+- Pan's Labyrinth
 ### Series
 - [Over the Garden Wall](https://www.imdb.com/title/tt3718778)
 - [Hilda](https://www.imdb.com/title/tt6385540) (_want to read the [graphic novels](https://nobrow.net/hilda/) too_)
+- Disney:
+	- [Gravity Falls](https://www.imdb.com/title/tt1865718/)
+	- [_Amphibia_](https://www.imdb.com/title/tt8050740)
+	- [_Infinity Train_](https://www.imdb.com/title/tt8146754)
+	- [_The Owl House_](https://www.imdb.com/title/tt8050756)
 ### Games
 - [_Spiritfarer_](https://thunderlotusgames.com/spiritfarer/)
 - [Untitled Goose Game](https://goose.game/)
